@@ -1,0 +1,62 @@
+holiday,temp,rain_1h,snow_1h,clouds_all,weather_main,weather_description,date_time,traffic_volume,hour,weekday
+Columbus Day,273.08,0.0,0.0,20,Clouds,few clouds,2012-10-08,455,0,0
+Veterans Day,288.12,0.0,0.0,87,Clear,sky is clear,2012-11-12,1000,0,0
+Thanksgiving Day,278.54,0.0,0.0,20,Mist,mist,2012-11-22,919,0,3
+Christmas Day,264.4,0.0,0.0,90,Clouds,overcast clouds,2012-12-25,803,0,1
+New Years Day,263.49,0.0,0.0,58,Clouds,broken clouds,2013-01-01,1439,0,1
+Washingtons Birthday,258.96,0.0,0.0,20,Clouds,few clouds,2013-02-18,556,0,0
+Memorial Day,286.37,0.0,0.0,90,Clouds,overcast clouds,2013-05-27,863,0,0
+Independence Day,290.08,0.0,0.0,1,Clear,sky is clear,2013-07-04,1060,0,3
+State Fair,297.42,0.0,0.0,12,Clouds,few clouds,2013-08-22,661,0,3
+Labor Day,288.78,0.0,0.0,0,Clear,Sky is Clear,2013-09-02,1041,0,0
+Columbus Day,277.72,0.0,0.0,0,Clear,Sky is Clear,2013-10-14,615,0,0
+Veterans Day,275.44,0.0,0.0,64,Clouds,broken clouds,2013-11-11,514,0,0
+Thanksgiving Day,268.24,0.0,0.0,64,Clouds,broken clouds,2013-11-28,929,0,3
+Christmas Day,260.17,0.25,0.0,64,Rain,light rain,2013-12-25,712,0,2
+New Years Day,250.14,0.0,0.0,90,Clouds,overcast clouds,2014-01-01,1395,0,2
+Martin Luther King Jr Day,271.79,0.0,0.0,64,Clouds,broken clouds,2014-01-20,480,0,0
+Washingtons Birthday,267.44,0.0,0.0,90,Clouds,overcast clouds,2014-02-17,583,0,0
+Memorial Day,294.31,0.0,0.0,40,Clouds,scattered clouds,2014-05-26,967,0,0
+Independence Day,289.2,0.0,0.0,1,Clear,sky is clear,2015-07-03,959,0,4
+State Fair,287.97,0.0,0.0,1,Clear,sky is clear,2015-08-27,605,0,3
+Labor Day,295.02,0.0,0.0,90,Clouds,overcast clouds,2015-09-07,973,0,0
+Columbus Day,293.02,0.0,0.0,1,Clear,sky is clear,2015-10-12,494,0,0
+Veterans Day,283.35,0.0,0.0,75,Clouds,broken clouds,2015-11-11,559,0,2
+Thanksgiving Day,277.22,0.0,0.0,90,Mist,mist,2015-11-26,833,0,3
+Thanksgiving Day,277.22,0.0,0.0,90,Haze,haze,2015-11-26,833,0,3
+Christmas Day,269.09,0.0,0.0,90,Snow,light snow,2015-12-25,894,0,4
+New Years Day,265.94,0.0,0.0,90,Haze,haze,2016-01-01,1513,0,4
+New Years Day,265.94,0.0,0.0,90,Snow,light snow,2016-01-01,1513,0,4
+Washingtons Birthday,265.35,0.0,0.0,90,Mist,mist,2016-02-15,785,0,0
+Memorial Day,288.38,0.0,0.0,1,Mist,mist,2016-05-30,1082,0,0
+Independence Day,289.95,0.0,0.0,1,Clear,sky is clear,2016-07-04,1115,0,0
+State Fair,290.82,0.0,0.0,1,Clear,sky is clear,2016-08-25,655,0,3
+Labor Day,293.17,1.52,0.0,90,Rain,moderate rain,2016-09-05,1064,0,0
+Labor Day,293.17,1.52,0.0,90,Thunderstorm,proximity thunderstorm,2016-09-05,1064,0,0
+Columbus Day,282.341,0.0,0.0,0,Clear,Sky is Clear,2016-10-10,484,0,0
+Veterans Day,281.96,0.0,0.0,1,Clear,sky is clear,2016-11-11,572,0,4
+Thanksgiving Day,274.34,0.0,0.0,75,Mist,mist,2016-11-24,763,0,3
+Christmas Day,276.08,0.0,0.0,90,Rain,light rain,2016-12-26,732,0,0
+Christmas Day,276.08,0.0,0.0,90,Mist,mist,2016-12-26,732,0,0
+New Years Day,270.62,0.0,0.0,90,Snow,light snow,2017-01-02,798,0,0
+Martin Luther King Jr Day,266.08,0.0,0.0,1,Mist,mist,2017-01-16,698,0,0
+Martin Luther King Jr Day,266.08,0.0,0.0,1,Haze,haze,2017-01-16,698,0,0
+Washingtons Birthday,285.059,0.0,0.0,68,Clouds,broken clouds,2017-02-20,629,0,0
+Memorial Day,285.87,0.0,0.0,40,Clouds,scattered clouds,2017-05-29,1538,0,0
+Independence Day,293.41,0.0,0.0,1,Clear,sky is clear,2017-07-04,1225,0,1
+State Fair,289.69,0.0,0.0,90,Rain,light rain,2017-08-24,657,0,3
+Labor Day,295.54,0.0,0.0,1,Clear,sky is clear,2017-09-04,1026,0,0
+Columbus Day,284.62,0.0,0.0,1,Clear,sky is clear,2017-10-09,549,0,0
+Veterans Day,261.68,0.0,0.0,1,Clear,sky is clear,2017-11-10,812,0,4
+Thanksgiving Day,271.94,0.0,0.0,1,Clear,sky is clear,2017-11-23,1324,0,3
+Christmas Day,257.95,0.0,0.0,1,Clear,sky is clear,2017-12-25,1092,0,0
+New Years Day,249.36,0.0,0.0,1,Clear,sky is clear,2018-01-01,1478,0,0
+Martin Luther King Jr Day,262.54,0.0,0.0,90,Snow,light snow,2018-01-15,600,0,0
+Martin Luther King Jr Day,262.54,0.0,0.0,90,Mist,mist,2018-01-15,600,0,0
+Martin Luther King Jr Day,262.54,0.0,0.0,90,Haze,haze,2018-01-15,600,0,0
+Washingtons Birthday,270.73,0.0,0.0,20,Clouds,few clouds,2018-02-19,623,0,0
+Memorial Day,299.487,0.0,0.0,24,Clouds,few clouds,2018-05-28,1088,0,0
+Independence Day,297.55,0.0,0.0,1,Mist,mist,2018-07-04,1021,0,2
+State Fair,289.02,0.0,0.0,1,Clear,sky is clear,2018-08-23,596,0,3
+Labor Day,292.43,0.25,0.0,1,Rain,light rain,2018-09-03,962,0,0
+Labor Day,292.43,0.25,0.0,1,Mist,mist,2018-09-03,962,0,0
