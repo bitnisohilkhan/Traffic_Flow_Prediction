@@ -27,7 +27,7 @@ The data pipeline consists of the following steps:
 6. Define task orchestration using an Airflow DAG
 
 ## Airflow DAG
-An Apache Airflow DAG is included to represent the logical execution order of the pipeline tasks. The DAG is provided for orchestration design purposes only and was not executed as part of this submission.
+An Apache Airflow DAG is included to represent the logical execution order of the pipeline tasks.
 
 ## Results
 - The Linear Regression model achieved a Mean Absolute Error (MAE) of approximately 241 vehicles.
